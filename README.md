@@ -1,8 +1,6 @@
 # TRACEUR-VEHICULE
 
 
-# Real Time Vehicle Tracking App
-
 Real Time Vehicle Tracking App with web socket Built using Flutter
 
 <p float="left">
